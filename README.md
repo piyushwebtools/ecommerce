@@ -1,2 +1,0 @@
-# ecommerce
-webtools final project
